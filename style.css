@@ -1,0 +1,260 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.title {
+  display: flex;
+  padding-left: 40px;
+  padding-right: 60px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+  justify-content: space-between;
+  font-size: 20px;
+}
+.title1 {
+  display: flex;
+}
+.title2 {
+  display: flex;
+}
+.title1 h3 {
+  padding-left: 30px;
+}
+.title2 h3 {
+  padding-left: 30px;
+}
+.title2 span {
+  padding: 8px 20px;
+  border-radius: 24px;
+  background: #00c805;
+}
+.titan {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-size: 24px;
+  background-color: #c3f53c;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  border-bottom: 1px solid black;
+}
+.titan2 {
+  width: 692px;
+  height: 600px;
+}
+.titan2 img {
+  width: 100%;
+  height: 100%;
+}
+.titan1 {
+  margin-top: 50px;
+}
+.titan1 span {
+  padding: 8px 20px;
+  border-radius: 24px;
+  background: black;
+  color: white;
+}
+#rt {
+  color: #000;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: center;
+  padding: 15px;
+}
+.icon {
+  display: flex;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.icon2 {
+  display: inline-flex;
+  padding: 166px 36px 172px 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 26px;
+  flex-shrink: 0;
+}
+.icon1 {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 807px;
+  height: 454px;
+  flex-shrink: 0;
+}
+#lo {
+  color: #000;
+  font-family: Roboto;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0.32px;
+  padding-left: 50px;
+}
+#ol {
+  color: #6f787e;
+  font-family: Roboto;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 164.706% */
+  letter-spacing: 0.25px;
+  padding-left: 50px;
+}
+.midle {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-top: 100px;
+  width: 70%;
+}
+.midle1 {
+  width: 27%;
+  font-size: 18px;
+}
+.top {
+  display: flex;
+}
+.midle2 img {
+  width: 357px;
+  height: 429px;
+  margin-top: -100px;
+  margin-left: 150px;
+}
+#we {
+  color: #6f787e;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0.25px;
+}
+.iron {
+  display: flex;
+  color: white;
+  background-color: #000;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.glas2 {
+  display: flex;
+}
+.glas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.glas2 h3 {
+  padding: 20px;
+  font-size: 25px;
+}
+.glas1 h1 {
+  padding: 20px;
+  font-size: 50px;
+}
+#dr {
+  padding: 20px;
+  font-size: 20px;
+}
+#rd {
+    margin-top: 110px;
+margin-left: 20px;
+padding: 8px 20px;
+color: white;
+background-color: #000;
+width: 102px;
+border-radius: 26px;
+}
+.min{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 18px;
+    padding-bottom: 50px;
+    
+}
+footer{
+    padding-top: 30px;
+    background-color: black;
+    }
+    .l{
+    display: flex;
+    justify-content: center;
+    }
+    .l1{
+    border-bottom: 1px solid white;
+    color: white;
+    padding-left: 25px;
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    }
+    .l2{
+    font-size: 15px;
+    width: 33%;
+    }
+    .l3{
+    border-bottom: 1px solid white;
+    width: 45%;
+    color: white;
+    }
+    .l3 P{
+    padding-bottom: 0px;
+    }
+    
+    .l2 h3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    }
+    .l4{
+    padding-top: 20px;
+    font-size: small;
+    width: 100%;
+    text-align: end;
+    }
+    .l4 h3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+    .l5{
+    margin-top: 15px;
+    height: 30px;
+    background: #1E2124;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 40px;
+    }
+    .l5 h3{
+    font-weight: lighter;
+    color: white;
+    opacity: 40%;
+    padding-left: 20px;
+    }
+    .l5 button{
+    border-radius: 20px;
+    margin-right: 20px;
+    background: #00C805;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+    .l6{
+    color: white;
+    padding-left: 35px;
+    }
+    .l6 h5{
+    padding-bottom: 10px;
+    padding-top: 15px;
+    }
